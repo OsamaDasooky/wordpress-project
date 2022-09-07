@@ -12,3 +12,6 @@ The website contains categories, and each product are under a specific category.
 
 [trello](https://trello.com/invite/b/jecOYx0N/1081378732cbd28538a4af85d7d0eb7e/wordpress)
 
+[Wierframe.pdf](https://github.com/OsamaDasooky/wordpress-project/files/9506925/Group.1.pdf)
+
+[mockup.pdf](https://github.com/OsamaDasooky/wordpress-project/files/9506926/home.pdf)
