@@ -10,8 +10,16 @@ Products list , Contact and Profile, checkout page.
 
 The website contains categories, and each product are under a specific category.
 
+the theam name that i used was jupiter X 
+
+the plagins that i used was -*Elementor* -*Login/Signup Popup*	
+-*TI WooCommerce Wishlist*
+-*Weglot Translate*
+-*Yoast SEO*
+-*Force Authentification Before Checkout for WooCommerce*
+
 [trello](https://trello.com/invite/b/jecOYx0N/1081378732cbd28538a4af85d7d0eb7e/wordpress)
 
-[Wierframe.pdf](https://github.com/OsamaDasooky/wordpress-project/files/9506925/Group.1.pdf)
+[Wierframe & mockup](https://www.figma.com/file/CIyKhEjFmri0megSYlssg2/Untitled?node-id=4%3A656)
 
-[mockup.pdf](https://github.com/OsamaDasooky/wordpress-project/files/9506926/home.pdf)
+
