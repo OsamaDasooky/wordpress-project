@@ -10,7 +10,7 @@ Products list , Contact and Profile, checkout page.
 
 The website contains categories, and each product are under a specific category.
 
-the theam name that i used was jupiter X 
+The username that I used was Jupiter X.
 
 the plagins that i used was -*Elementor* -*Login/Signup Popup*	
 -*TI WooCommerce Wishlist*
